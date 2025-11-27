@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Claude Code
+CLAUDE.md
+.claude/
+.histfile
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
