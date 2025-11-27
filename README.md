@@ -7,7 +7,7 @@ A lightweight Python service that bridges Prometheus Alertmanager webhooks to At
 ## How It Works
 
 1. Prometheus fires alerts with Statuspage labels/annotations
-2. Alertmanager groups alerts and sends webhooks to this service
+2. Alertmanager groups alerts by Statuspage Component ID and sends webhooks to this service
 3. This service creates/updates/resolves incidents on Statuspage
 
 ## Setup
