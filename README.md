@@ -92,4 +92,4 @@ pytest tests/ -v
 
 ## License
 
-MIT
+AGPL-3.0
