@@ -1,4 +1,4 @@
-# Statuspage Bridge
+# Prometheus-Statuspage Bridge
 
 A lightweight Python service that bridges Prometheus Alertmanager webhooks to Atlassian Statuspage incidents.
 
